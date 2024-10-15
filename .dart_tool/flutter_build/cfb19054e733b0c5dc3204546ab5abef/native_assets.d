@@ -1,0 +1,1 @@
+ /Users/allansantos/Documents/poc/study_injection_and_routes_native_flutter/.dart_tool/flutter_build/cfb19054e733b0c5dc3204546ab5abef/native_assets.yaml: 

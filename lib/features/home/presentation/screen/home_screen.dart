@@ -1,4 +1,3 @@
-import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:study_injection_and_routes_native/features/home/domain/usecases/home_usecase.dart';
 
@@ -18,8 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
 
-    user = widget.homeUseCase.getUser();
-    log(user.toString());
+    user = widget.homeUseCase.getUser(); 
   }
 
   @override
